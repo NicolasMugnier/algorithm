@@ -1,0 +1,11 @@
+void Insertion (int tab[], int ntab);
+void Selection (int tab[], int ntab);
+void Echange (int tab[], int ntab);
+void Shakesort(int tab[], int ntab);
+void Shellsort(int tab[], int ntab);
+void Heapsort_1(int tab[], int ntab);
+void placer(int g, int d, int *T);
+void Heapsort_2(int tab[], int ntab);
+void Heapsort_3(int tab[], int ntab);
+int partition (int tab[], int gauche, int droite);
+void Quicksort(int tab[], int debut, int fin);
